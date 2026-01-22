@@ -1,5 +1,11 @@
 # HTML e CSS — Prática Alura
 
+🌐 **Projeto publicado no GitHub Pages:**  
+👉 [Clique aqui para acessar o site](https://gabriellatlr.github.io/projeto-portfolio)
+
+🚧 Projeto em desenvolvimento 🚧
+
+
 🚧 Projeto em desenvolvimento 🚧
 
 ## 📖 Sobre
